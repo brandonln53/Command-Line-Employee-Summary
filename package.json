@@ -1,0 +1,30 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.4.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonln53/Command-Line-Employee-Summary.git"
+  },
+  "keywords": [
+    "employee",
+    "role",
+    "summary"
+  ],
+  "author": "Brandon Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonln53/Command-Line-Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/brandonln53/Command-Line-Employee-Summary#readme"
+}
